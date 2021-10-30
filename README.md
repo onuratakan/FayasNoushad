@@ -22,6 +22,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/FayasNoushad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayasnoushad)
+[![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium)](https://fayasnoushad.medium.com)
 [![Quora](https://img.shields.io/badge/Quora-grey?style=for-the-badge&logo=quora)](https://www.quora.com/profile/Fayas-Noushad-1)
 [![GitLab](https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/FayasNoushad)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-grey?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16129096/fayas-noushad)
