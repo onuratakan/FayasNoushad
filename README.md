@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m waiting for suggestions for creating new projects
 - 💬 Ask me about anything
-- 📫 You can reach me via [accounts](https://fayas.me/accounts)
+- 📫 You can reach me via [my accounts](https://fayas.me/accounts)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a boy
 
