@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working with python libraries and apis
 - 🌱 I’m currently learning more programming languages
-- 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m waiting for suggestions for creating new projects
-- 💬 Ask me about anything
-- 📫 You can reach me via [my accounts](https://fayas.me/accounts)
+- 👯 I’m looking to collaborate on my opensource projects
+- 🤔 I’m waiting for good suggestions for creating new projects
+- 💬 You can add your feedback [here](https://github.com/FayasNoushad/Feedback) and add your ideas [here](https://github.com/FayasNoushad/Ideas)
+- 📫 You can reach me via [my accounts](https://fayas.me/accounts) or [mail](mailto:contact@fayas.me)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a boy
 
