@@ -2,7 +2,7 @@
 
 ---
 
-## About Me
+## About 😌
 
 - 🔭 I’m currently working with python libraries and apis
 - 🌱 I’m currently learning more programming languages
@@ -15,7 +15,7 @@
 
 ---
 
-## My Accounts
+## Accounts 🔰
 
 [![Twitter](https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FayasNoushad)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/TheFayas)
@@ -29,7 +29,7 @@
 
 ---
 
-## My Tools and Skills
+## Tools and Skills 👨‍💻
 
 [![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
