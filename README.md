@@ -19,6 +19,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FayasNoushad)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/TheFayas)
+[![Instagram](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook)](https://facebook.com/TheFayas)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/FayasNoushad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayasnoushad)
