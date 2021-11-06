@@ -41,6 +41,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github)](https://github.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visualstudiocode)](https://visualstudio.microsoft.com/)
+[![Pycharm](https://img.shields.io/badge/Pycharm-000000?&style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)
