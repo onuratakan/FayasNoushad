@@ -30,26 +30,47 @@
 
 ---
 
-## Tools and Skills 👨‍💻
+## Languages 👨‍💻
 
 [![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Json](https://img.shields.io/badge/Json-000000?&style=for-the-badge&logoColor=white&logo=json)](https://json.org)
+
+---
+
+## Tools ⚒️
+
 [![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github)](https://github.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visualstudiocode)](https://visualstudio.microsoft.com/)
 [![Pycharm](https://img.shields.io/badge/Pycharm-000000?&style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+
+---
+
+## Frameworks 🖼️
+
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+---
+
+## Databases 🗂️
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
+
+---
+
+## Hosting Servers 💡
+
 [![Heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
 [![Replit](https://img.shields.io/badge/Replit-667881?&style=for-the-badge&logoColor=white&logo=replit)](https://replit.com)
-[![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=black)](https://github.com/features/actions)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?&style=for-the-badge&logo=github)](https://pages.github.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=black)](https://github.com/features/actions)
 
 ---
