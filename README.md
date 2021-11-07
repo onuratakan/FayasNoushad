@@ -34,7 +34,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
