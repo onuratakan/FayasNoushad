@@ -54,6 +54,7 @@
 
 [![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Pyrogram](https://img.shields.io/badge/Pyrogram-red?&style=for-the-badge&logo=pyrogram)](https://pyrogram.org)
 
 ---
 
