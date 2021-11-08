@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with python libraries and apis
 - 🌱 I’m currently learning more programming languages
-- 👯 I’m looking to collaborate on my opensource projects
+- 👯 I’m currently creating [more opensource projects](https://fayas.me/projects)
 - 🤔 I’m waiting for good suggestions for creating new projects
 - 💬 You can add your feedback [here](https://github.com/FayasNoushad/Feedback) and add your ideas [here](https://github.com/FayasNoushad/Ideas)
 - 📫 You can reach me via [my accounts](https://fayas.me/accounts) or [mail](mailto:contact@fayas.me)
