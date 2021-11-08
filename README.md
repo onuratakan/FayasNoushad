@@ -56,3 +56,13 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=black)](https://github.com/features/actions)
 
 ---
+
+## Stats 📊
+
+<div>
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=FayasNoushad&theme=tokyonight&custom_title=GitHub+Stats"/>
+    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=FayasNoushad&theme=tokyonight"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=1&theme=tokyonight"/>
+</div>
+
+---
