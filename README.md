@@ -1,10 +1,16 @@
-[![About Me](/banner.png)</br>Learn more about me...](https://fayas.me)
+# Hello, I am Fayas 👋
+
+[Learn more about me...](https://fayas.me)
 
 ---
 
 ## About 😌
 
-- 🔭 I’m currently working with python libraries and apis
+<samp>
+
+- 🌐 I am an Opensource Developer from India 🇮🇳
+- 🎓 I am a Computer Science student at [Puliyaparamb HSS](https://puliyaparamb.github.io)
+- 🔭 I’m currently working with python libraries and APIs etc
 - 🌱 I’m currently learning more programming languages
 - 👯 I’m currently creating [more opensource projects](https://fayas.me/projects)
 - 🤔 I’m waiting for good suggestions for creating new projects
@@ -12,6 +18,8 @@
 - 📫 You can reach me via [my accounts](https://fayas.me/accounts) or [mail](mailto:contact@fayas.me)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a boy
+
+</samp>
 
 ---
 
