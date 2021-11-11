@@ -68,9 +68,15 @@
 ## Stats 📊
 
 <div>
-    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=FayasNoushad&theme=tokyonight&custom_title=GitHub+Stats"/>
-    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=FayasNoushad&theme=tokyonight"/>
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=1&theme=tokyonight"/>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&username=FayasNoushad&theme=tokyonight&custom_title=GitHub+Stats"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=FayasNoushad&theme=tokyonight"/>
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=1&theme=tokyonight"/>
+    </a>
 </div>
 
 ---
